@@ -1,0 +1,34 @@
+body {
+  background-color: black;
+  width: 100%;
+  height: 100%;
+  font-family: Roboto sans-serif;
+  color: seashell;
+  opacity: 0.9;
+}
+
+.top {
+  height: 69px;
+  width: 100%;
+  border-bottom: 1px solid seashell;
+  position: fixed;
+  display: flex;
+  margin: auto;
+}
+
+.title h1 {
+  font-family: 'Shadows Into Light', cursive;
+  color: seashell;
+  margin-left: 10px;
+  margin-right: 50px;
+  padding-bottom: 5px;
+}
+
+.nav {
+  display: flex;
+  margin-right: 45px;
+}
+
+.nav h2 {
+
+}
